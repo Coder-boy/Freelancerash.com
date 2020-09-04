@@ -32,8 +32,8 @@ img{
 }
 nav {
     position: fixed;
-    width: 102%;
-    margin-left: -164px;
+    width: 108%;
+    margin-left: -135px;
     
     z-index: 999;
 }
